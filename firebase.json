@@ -1,0 +1,7 @@
+{
+  "hosting": {
+    "site": "d3-is-lit",
+    "public": "build",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+  }
+}
